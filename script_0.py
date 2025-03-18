@@ -1,5 +1,4 @@
-10w3 = Web3(Web3.HTTPProvider(RPC_URL))
-
+11
 if w3.is_connected():
     print(" Connected to Legion Crypto")
 else:
