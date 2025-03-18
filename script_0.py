@@ -1,5 +1,4 @@
-11
-if w3.is_connected():
+12if w3.is_connected():
     print(" Connected to Legion Crypto")
 else:
     print(" Connection failed")
