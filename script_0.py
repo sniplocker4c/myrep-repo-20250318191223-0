@@ -1,5 +1,4 @@
-9# Connect to the blockchain node
-w3 = Web3(Web3.HTTPProvider(RPC_URL))
+10w3 = Web3(Web3.HTTPProvider(RPC_URL))
 
 if w3.is_connected():
     print(" Connected to Legion Crypto")
