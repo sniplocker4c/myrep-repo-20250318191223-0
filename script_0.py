@@ -1,5 +1,4 @@
-2from dotenv import load_dotenv
-
+3
 # Load environment variables from .env file
 load_dotenv()
 # Retrieve values from .env
