@@ -1,5 +1,4 @@
-5load_dotenv()
-# Retrieve values from .env
+6# Retrieve values from .env
 RPC_URL = os.getenv("RPC_URL")
 
 # Connect to the blockchain node
