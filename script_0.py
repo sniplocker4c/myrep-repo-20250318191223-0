@@ -1,5 +1,4 @@
-1from web3 import Web3
-from dotenv import load_dotenv
+2from dotenv import load_dotenv
 
 # Load environment variables from .env file
 load_dotenv()
