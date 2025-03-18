@@ -1,5 +1,4 @@
-13    print(" Connected to Legion Crypto")
-else:
+14else:
     print(" Connection failed")
 
 print(f"Performing blockchain info check: w3.eth.get_accounts()")
