@@ -1,5 +1,4 @@
-4# Load environment variables from .env file
-load_dotenv()
+5load_dotenv()
 # Retrieve values from .env
 RPC_URL = os.getenv("RPC_URL")
 
