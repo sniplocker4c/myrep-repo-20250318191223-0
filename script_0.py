@@ -1,5 +1,4 @@
-7RPC_URL = os.getenv("RPC_URL")
-
+8
 # Connect to the blockchain node
 w3 = Web3(Web3.HTTPProvider(RPC_URL))
 
