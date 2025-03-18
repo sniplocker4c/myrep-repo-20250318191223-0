@@ -1,5 +1,4 @@
-8
-# Connect to the blockchain node
+9# Connect to the blockchain node
 w3 = Web3(Web3.HTTPProvider(RPC_URL))
 
 if w3.is_connected():
